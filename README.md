@@ -2,5 +2,7 @@
 <p>Esse projeto foi criando no intuito de fornece um serviço de hospedagem de sites de uma forma clara e vialve para seus compradores.</p>
 <p>O site acompanha tabales simples e facil de enteder para todos usuarios, e varios tipos de precos e de serviços. Logo embaixo temos uma imagem do site.</p>
 <img width="1207" height="719" alt="Image" src="https://github.com/user-attachments/assets/f91e5c7d-7a13-4dec-a85f-2050b11cd69c" />
-<p> temos mas imagem sobre o projeto agora vem imagem da tabela que mostra os serviços que o comprador tem direito sobre suas hospedagem</p>
+<p> temos mas imagem sobre o projeto agora vem imagem da tabela que mostra os serviços que o comprador tem direito sobre suas hospedagem.</p>
 <img width="1050" height="648" alt="Image" src="https://github.com/user-attachments/assets/d83a8583-01b6-4ac1-b310-cd772781a11e" />
+<p>tambem temos outro sites que mostra as tabelas de preços dos nosso sites as famosas assinaturas para comprador.</p>
+<img width="1202" height="738" alt="Image" src="https://github.com/user-attachments/assets/3b7a8283-3d5f-42e2-989e-9ce8ae31a0f2" />
