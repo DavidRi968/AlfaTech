@@ -1,0 +1,325 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.topo {
+    margin: 0;
+    padding: 30px;
+    background-color: #fff;
+    
+    
+}
+
+.topo h1 {
+    text-align: center;
+    font-size: 32px;
+    color: 000000;
+    position: absolute;
+    top: 40px;
+    left: 270px;
+}
+
+.topo p {
+    position: absolute;
+    font-size: 16px;
+    color: #2f86d6;
+    top: 80px;
+    left: 270px;
+}
+
+.link {
+    font-size: 18px;
+    color: #233032;
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 60px;
+    right: 30%;
+    
+} 
+
+.logo {
+    width: 80px;
+    position: relative;
+    left: 150px;
+    top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+/* acabou aqui o topo */
+.servico {
+    background-color: #2f86d6;
+    padding: 250px;
+    position: relative;
+}
+
+.servico img {
+    width: 500px;
+    position: absolute;
+    bottom: 50px;
+    right: 350px;
+}
+
+.text{
+    max-width: 500px;
+    min-height: 50px;
+    color: #fff;
+}
+
+h2.text {
+    font-size: 26px;
+    color: #fff;
+}
+
+p.text {
+    font-size: 16px;
+    color: #fff;
+}
+/* acabou aqui o serviço */
+.preco {
+    background-color: #233032;
+    margin: 0;
+    padding: 40px;
+    position: relative;
+}
+
+.preco img {
+    width: 20px;
+    position: absolute;
+    right: 88%
+}
+
+.botao {
+    display: flex;
+    background-color: #2f86d6;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px 35px;
+    border-radius: 8px;
+    position: absolute;
+    right: 350px;
+    top: 40px;
+}
+
+.preco h2 {
+    max-width: 500px;
+    font-weight: bold;
+    margin: 10px 200px;
+    font-size: 24px;
+    color: #fff;
+}
+
+.preco p {
+    max-width: 500px;
+    font-weight: bold;
+    margin: 10px 200px;
+    font-size: 16px;
+    color: #fff;
+}
+/* acabou aqui o anuncio  */
+
+.escolha {
+    background-color: #fff;
+}
+
+.escolha h2 {
+    font-size: 32px;
+    color: #000000;
+    padding: 50px;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.conteiner-img {
+   width: 300px;
+}
+
+.conteiner-img img {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.conteiner-img h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #000000;
+}
+
+.conteiner-img p {
+    font-size: 16px;
+    color: #000000
+}
+
+span {
+    font-size: 32px;
+    color: #2f86d6;
+}
+/* acabou hospdagem de sites */
+
+.table-top {
+    position: relative;
+    text-align: center;
+    background-color: #fff;
+    min-height: 750px;
+}
+
+.table-top h2 {
+    font-size: 32px;
+    padding: 40px; 
+    color: #000000;
+    
+}
+
+.table-head {
+    box-shadow: 5px -1px 56px 12px #2f86d6;
+   position: absolute;
+   right: 390px;
+   
+}
+
+.table-head img {
+    width: 100px;
+}
+
+th {
+    font-size: 18px;
+    padding: 15px 30px 15px 40px;
+    color: #000000;
+}
+
+th p {
+    font-size: 13px;
+    color: #a89f9f;
+}
+
+td {
+    font-size: 16px;
+    padding: 15px 30px 15px 30px;
+}
+/* Acabou a table */
+
+.preco-2 {
+    background-color: #2f86d6;
+    margin: 0;
+    padding: 40px;
+    position: relative;
+}
+.preco-2 img {
+    width: 20px;
+    position: absolute;
+    right: 88%
+}
+
+
+.preco-2 h2 {
+    max-width: 500px;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 200px;
+    color: #fff;
+}
+
+.preco-2 p {
+    max-width: 500px;
+    font-weight: bold;
+    margin: 10px 200px;
+}
+
+.preco-2 a {
+    display: flex;
+    background-color: #000000;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 25px 35px;
+    border-radius: 8px;
+    position: absolute;
+    right: 350px;
+    top: 40px;
+}
+/* Acabou segundo anucio */
+
+.rodape {
+    text-align: center;
+    position: relative;
+    padding: 80px 20px;
+    background-color: #f1f3f7;
+    min-height: 300px;
+}
+
+.rodape img {
+    width: 80px;
+    position: absolute;
+    left: 38%;
+    
+}
+
+.logo-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.text-logo {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-logo h1 {
+    margin: 0;
+    font-size: 32px;
+    position: absolute;
+    top: 40px;
+    right: 47%;
+    color: #000000;
+}
+
+.text-logo p {
+    margin: 0;
+    font-size: 16px;
+    color: #2f86d6;
+    position: absolute;
+    top: 70px;
+    right: 680px;
+}
+
+.rodape p {
+    margin: 18px 0;
+    font-size: 16px;
+    color: #000000;
+}
+
+.paragrafo span {
+    font-size: 16px;
+    color: #2f86d6;
+    font-weight: bold;
+}
+
+.paragrafo-baixo {
+    padding: 40px;
+}
+
+.paragrafo {
+    position: absolute;
+    left: 45%;
+    bottom: 0px;
+}
+
+
