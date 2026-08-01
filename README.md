@@ -11,3 +11,4 @@
 <p>Se você está aqui, é porque você gostou muito do meu site.</p>
 <p>Então, eu vou falar um pouco mais sobre mim e sobre o projeto. Esse projeto foi passado pelo curso da DevMedia. Nesse momento, eu estou cursando lá, sou um programador sem experiência nenhuma, mas que sonha um dia conseguir a sua primeira vaga de emprego.</p>
 <p>Sobre o projeto, as minhas maiores dificuldades foram um pouco a tabela e centralizar 3 imagens juntas. Busquei respostas no MDN e usei um pouco a famosa IA. Ela só foi usada para explicar aquilo que eu não entendi. Agora, sobre as questões dos códigos, pode ter muita coisa sem sentido ou desnecessária, mas foi uma forma que eu aprendi para recriar o site. Leve em consideração que sou um iniciante, vou melhorar e prometo.</p>
+https://davidri968.github.io/AlfaTech/
